@@ -35,7 +35,7 @@ public class Ex14_ForMunje {
 				continue;
 				
 				} else {
-				count += 1; 
+				count += 1; //count++;
 				sum += score;
 				
 				}
